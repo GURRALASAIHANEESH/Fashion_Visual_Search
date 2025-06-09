@@ -1,0 +1,37 @@
+# FastAPI and web server
+fastapi
+uvicorn
+python-multipart
+aiohttp
+nest_asyncio
+pyngrok
+
+# Machine Learning & Deep Learning
+tensorflow
+torch
+torchvision
+scikit-learn
+faiss-cpu
+
+# Data processing
+pandas
+numpy
+pyarrow
+
+# Image processing & visualization
+Pillow
+matplotlib
+ipywidgets
+ipython
+
+# Utility
+tqdm
+requests
+
+# Optional: Redis support (async cache or trend tracking)
+aioredis==2.0.1
+redis
+
+# Optional: if deploying with Gradio/Streamlit frontend (comment if unused)
+# gradio
+# streamlit
